@@ -11,7 +11,7 @@
 
 ## About Me
 
-I’m a Full Stack Engineer with 5+ years of experience designing and deploying high-performance web applications across enterprise and distributed teams.
+I’m a Full Stack Developer with 5+ years of experience designing and deploying high-performance web applications across enterprise and distributed teams.
 
 My focus is modern React and Next.js architecture, API-driven systems, cloud deployment, and performance optimization. I also have a research background in Machine Learning, applying predictive models to real-world healthcare data.
 
@@ -149,6 +149,7 @@ Focused on model evaluation, data preprocessing, and predictive accuracy for hea
 - Scalable frontend performance engineering
 
 ---
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/713d017340001655468a00eba132768c3ee636e61bb47ec8209f2572ac2b2000/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465762d414273696426"><img align="center" src="https://camo.githubusercontent.com/713d017340001655468a00eba132768c3ee636e61bb47ec8209f2572ac2b2000/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465762d414273696426" alt="awbnext" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ABsid&amp;" style="max-width: 100%;"></a></p>
 
 ## Connect
 
