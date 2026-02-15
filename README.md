@@ -1,5 +1,5 @@
 <h1 align="center">Syed Waseem Hassan Kazmi</h1>
-<h3 align="center">Full Stack Engineer | Reactjs • Next.js • TypeScript • Cloud • AI • WordPress • E Commerce</h3>
+<h3 align="center">Full Stack Engineer | React.js • Next.js • TypeScript • Cloud • AI • WordPress • E Commerce</h3>
 
 <p align="center">
   London, United Kingdom <br/>
